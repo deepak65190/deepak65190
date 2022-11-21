@@ -9,8 +9,8 @@
 - 💬 Ask me about **MERN**
 
 - 📫 How to reach me **bisht65190@gmail.com**
-- <h3><a href="https://deepak65190.github.io/" target="blank">Portfolio</h3>
-  <h3><a href="https://drive.google.com/file/d/1fCf6tew3cZQ-UIpllBglzU2rvnCecMke/view?usp=share_link" target="blank">Resume</h3>
+- <h3><a href="https://deepak65190.github.io/" target="blank">Portfolio 😎</h3>
+-  <h3><a href="https://drive.google.com/file/d/1fCf6tew3cZQ-UIpllBglzU2rvnCecMke/view?usp=share_link" target="blank">Resume 😎</h3>
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1fCf6tew3cZQ-UIpllBglzU2rvnCecMke/view?usp=sharing](https://drive.google.com/file/d/1fCf6tew3cZQ-UIpllBglzU2rvnCecMke/view?usp=sharing)
 
