@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Deepak bisht</h1>
+<h1 align="center">Hi 👋, I'm Deepak Bisht</h1>
 <h3 align="center">Aspiring web developer from India</h3>
 <img src="https://www.digitalsolutionservices.com/img/services/website1.gif"  width="400" align="right" alt="Coding" >
 
