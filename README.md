@@ -9,13 +9,13 @@
 - 💬 Ask me about **MERN**
 
 - 📫 How to reach me **bisht65190@gmail.com**
-- <h3><a href="https://deepak65190.github.io/" target="blank">Portfolio 😎</h3>
--  <h3><a href="https://drive.google.com/file/d/1fCf6tew3cZQ-UIpllBglzU2rvnCecMke/view?usp=share_link" target="blank">Resume 😎</h3>
+- <h3><a href="https://deepak65190.github.io/" target="_blank">Portfolio 😎</h3>
+-  <h3><a href="https://drive.google.com/file/d/1fCf6tew3cZQ-UIpllBglzU2rvnCecMke/view?usp=share_link" target="_blank">Resume 😎</h3>
 - ⚡ Fun fact **I can center "DIV" without using margin-auto**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/deepakbisht01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/deepakbisht01/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/deepakbisht01" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/deepakbisht01/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
